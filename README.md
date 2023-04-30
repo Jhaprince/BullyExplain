@@ -12,7 +12,7 @@ Krishanu Maity*, Prince Jha*, Raghav Jain, Sriparna Saha, Pushpak Bhattacharyya
 Note : * denotes equal contribution
 
 # Dataset
-1.
+1. [BullyExplain Data](jhapks1999@gmail.com),One can contact me directly over email in case you need image data mentioning "Lexico Semantic Relation MultiModal Data" in the subject.
 
 
 # Annotation Guidelines
