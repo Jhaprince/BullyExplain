@@ -4,26 +4,26 @@
 
 # Explain Thyself Bully: Sentiment Aided Cyberbullying Detection with Explanation (ICDAR 2023)
 
-This is the official repository accompanying the ICDAR 2023 full paper [Explain Thyself Bully: Sentiment Aided Cyberbullying Detection with Explanation](https://www.cse.iitb.ac.in/dummy). This repository contains codebase, dataset and the annotation guidelines.
+This is the official repository accompanying the ICDAR 2023 full paper [Explain Thyself Bully: Sentiment Aided Cyberbullying Detection with Explanation](https://arxiv.org/pdf/2401.09023.pdf). This repository contains codebase, dataset and the annotation guidelines.
 
 # Authors
 Krishanu Maity*, Prince Jha*, Raghav Jain, Sriparna Saha, Pushpak Bhattacharyya
 
 Note : * denotes equal contribution
 
-# Dataset
-1. [BullyExplain Data](jhapks1999@gmail.com), One can contact me directly over email in case you have any queries related to dataset mentioning "BullyExplain Dataset" in the subject.
-
-
-# Annotation Guidelines
-To be done
-
 
 # Citation
 If you find this repository to be helpful please cite us
 
 ```
-
+@inproceedings{maity2023explain,
+  title={“Explain Thyself Bully”: Sentiment Aided Cyberbullying Detection with Explanation},
+  author={Maity, Krishanu and Jha, Prince and Jain, Raghav and Saha, Sriparna and Bhattacharyya, Pushpak},
+  booktitle={International Conference on Document Analysis and Recognition},
+  pages={132--148},
+  year={2023},
+  organization={Springer}
+}
 ```
 
 
