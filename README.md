@@ -11,6 +11,8 @@ Krishanu Maity*, Prince Jha*, Raghav Jain, Sriparna Saha, Pushpak Bhattacharyya
 
 Note : * denotes equal contribution
 
+# Dataset
+Useful files needed for code: https://drive.google.com/drive/folders/1SBaSXD-a6nWYJ5VHCpg75GW7hd4N6Shp?usp=sharing
 
 # Citation
 If you find this repository to be helpful please cite us
